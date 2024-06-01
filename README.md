@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @shu-kitamura
-- 👀 I’m interested in database.
-- 🌱 I’m currently learning Rust, Python, Database(RDB)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Infomation
 
-<!---
-shu-kitamura/shu-kitamura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I'm Shusei Kitamura
+- A system engineer in Japan
+- X account is @prog_shu
+
+# Learning
+
+- Hadoop
+- Python, Java, Rust
+- Database (PostgreSQL, HBase)
