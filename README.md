@@ -1,11 +1,12 @@
-# Infomation
+# プロフィール (Profile)
 
 - I'm Shusei Kitamura
 - A system engineer in Japan
 - X account is @prog_shu
 
-# Learning
+# スキル (Skill)
 
-- Hadoop
-- Python, Java, Rust
-- Database (PostgreSQL, HBase)
+- Hadoop, HBase
+- PostgreSQL
+- Python, Java
+- Rust (Learning)
