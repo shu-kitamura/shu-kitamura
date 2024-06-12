@@ -10,4 +10,4 @@
 - Hadoop, HBase
 - PostgreSQL
 - Python, Java
-- Rust (Learning)
+- Rust (勉強中)
