@@ -9,5 +9,4 @@
 
 - Hadoop, HBase
 - PostgreSQL
-- Python, Java
-- Rust (勉強中)
+- Python, Java, Rust
