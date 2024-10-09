@@ -1,11 +1,12 @@
-# プロフィール (Profile)
+# Profile
 
 - I'm Shusei Kitamura
 - A system engineer in Japan
-- From Osaka
-- X account is @prog_shu
+- SNS & Blog
+  - [X](https://x.com/prog_shu)
+  - [Zenn](https://zenn.dev/shu_kitamura)
 
-# スキル (Skill)
+# Skill
 
 - Hadoop, HBase
 - PostgreSQL
