@@ -10,4 +10,4 @@
 
 - Hadoop, HBase
 - PostgreSQL
-- Python, Java, Rust
+- Rust, Python, Java
