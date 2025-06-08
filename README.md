@@ -1,5 +1,5 @@
 Hello!  
-I'm Shusei Kitamura. A software engineer in Japan.
+A software engineer in Japan.
 
 
 # SNS 
