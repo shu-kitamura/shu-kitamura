@@ -2,7 +2,7 @@ Hello!
 A software engineer in Japan(Sapporo).
 
 
-# SNS 
+# SNS & Blog
   - [X](https://x.com/prog_shu)
   - [Zenn](https://zenn.dev/shu_kitamura)
 
